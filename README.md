@@ -2,9 +2,7 @@
 <html>
     
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Nikes </title>
+        <title>Nike </title>
          <!-- Latest compiled and minified CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -22,16 +20,36 @@
                 <div>
                     <ul class="nav nav-tabs">
                         <li role="presentation" class="active"><a href="#">Home</a></li>
-                        <li role="presentation"><a href="#">Apperal and shoe </a></li>
+                        <li role="presentation"><a href="#">Apperal and shoes </a></li>
                         <li role="presentation"><a href="#"> Sponsors </a></li>
                         <li role="presentation"><a href="#">Contact info </a></li>
                     </ul>
                 </div> 
+            </div>    
+            <div class="row"> 
+                <div class="col-md-12">
+                    <div class="About" >                  
+                        <h3  style= "color: Black " >Nike</h3> 
+                        <p style="font-size: 10; color:black" > Nike was first fonded by ... back in 1324 . there many people were consern about...  </p>  
+                    </div>
+                </div>  
             </div>
-        <div>
             
-        </div>
-        
+            <div class= "row">
+                <div class= "col-md-6"> 
+                    <div class="Neymar">
+                        <img src="http://67.media.tumblr.com/tumblr_m5g2zlFMgA1rnonk8o1_1280.jpg" style="width:720;length:700">
+                    </div>
+                </div>
+                <div class="col-md-6"> 
+                    <div class="LB">
+                    
+                    </div>
+                
+                </div>
+            
+            </div>
+            
         </div>
     </body>
 </html>
