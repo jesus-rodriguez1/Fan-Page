@@ -29,20 +29,20 @@
             <div class="col-md-12">
                 <div class="About" >                  
                     <h3  style= "color: Black " >Nike</h3> 
-                    <p style="font-size: 10; color:black" > Nike was first fonded by ... back in 1324 . there many people were consern about...  </p>  
+                    <p style="font-size: 10; color:black" > Nike is billion dollar multinational corporation. Nike was first founded back in January 25, 1964.  The company was founed by Bill Bowerman and Phil Knight. It was first known as Blue Ribbon Sports. Then, by May 30, 1971 it was officially named and known as Nike Inc. Nike is mainly known for making shoes, apperal, accesories, and other sport equipment. They sponsor many big athletes such as Neymar, Lebron James, Tigerwoods,  Cristiano Ronaldo, etc. Its famouse slogon "Just Do It" and swoosh symbol is widely known all over the world. As of 2015 it has a network of US$3.273 billion. Their current headquarts is in Washington County, Oregon in the United States. Mark Parker is the current CEO as of Jan 2006.</p>  
                 </div>
             </div>  
         </div>
 
         <div class= "row">
             <div class= "col-md-6"> 
-                <div class="Neymar">
-                    <img src="http://67.media.tumblr.com/tumblr_m5g2zlFMgA1rnonk8o1_1280.jpg" >
+                <div class="LB">
+                    <img src="http://6.kicksonfire.net/wp-content/uploads/2015/12/nike.jpg?9a1c09" >
                 </div>
             </div>
             <div class="col-md-6"> 
-                <div class="LB">
-                    <img src="http://6.kicksonfire.net/wp-content/uploads/2015/12/nike.jpg?9a1c09">   
+                <div class="Neymar">
+                    <img src="http://67.media.tumblr.com/tumblr_m5g2zlFMgA1rnonk8o1_1280.jpg">   
                 </div>
 
             </div>
