@@ -24,7 +24,9 @@
                     <li role="presentation"><a href="#">Contact info </a></li>
                 </ul>
             </div> 
-        </div>    
+        </div>
+    </div>
+    <div class=" container">
         <div class="row"> 
             <div class="col-md-12">
                 <div class="About" >                  
@@ -33,18 +35,17 @@
                 </div>
             </div>  
         </div>
-
+        
         <div class= "row">
             <div class= "col-md-6"> 
-                <div class="LB">
+                <div class= "LB">
                     <img src="http://6.kicksonfire.net/wp-content/uploads/2015/12/nike.jpg?9a1c09" >
                 </div>
             </div>
             <div class="col-md-6"> 
-                <div class="Neymar">
-                    <img src="http://67.media.tumblr.com/tumblr_m5g2zlFMgA1rnonk8o1_1280.jpg">   
+                <div class="CR"> 
+                    <img src="https://s-media-cache-ak0.pinimg.com/564x/10/ef/dc/10efdcb2e274642817738b16c617bcb9.jpg">  
                 </div>
-
             </div>
 
         </div>
