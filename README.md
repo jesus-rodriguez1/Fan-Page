@@ -25,9 +25,7 @@
                 </ul>
             </div> 
         </div>
-    </div>
-    
-    <div class=" container">
+   
         <div class="row"> 
             <div class="col-md-12">
                 <div class="About" >                  
@@ -36,9 +34,7 @@
                 </div>
             </div>  
         </div>
-    </div>
-    
-    <div class="container">
+
         <div class= "row">
             <div class= "col-md-6"> 
                 <div class= "LB"> 
@@ -49,7 +45,7 @@
                 </div>
             </div>
         </div>
-    </div>
+
         <div class= "row">
             <div class="col-md-14">
                 <h1 class="slogon"> <strong>Just Do It</strong> </h1>
@@ -62,7 +58,7 @@
             <div class="col-md-6">
                 <p class="Words2"> Terms & Services  /  Security Status    </p>
             </div>
-            
         </div>
+    </div>
 </body>
 </html>
