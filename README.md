@@ -18,10 +18,9 @@
             <h3 class="name"> <strong> Nike </stong> </h3>
             <div>
                 <ul class="nav nav-tabs">
-                    <li role="presentation" class="active"><a href="#">Home</a></li>
-                    <li role="presentation"><a href="#">Apperal and shoes </a></li>
-                    <li role="presentation"><a href="#"> Sponsors </a></li>
-                    <li role="presentation"><a href="#">Contact info </a></li>
+                    <li role="presentation" class="active"><a href="index.html">Home</a></li>
+                    <li role="presentation"><a href="Secondpage.html">Apperal and shoes </a></li>
+                    <li role="presentation"><a href="Contact.html">Contact info </a></li>
                 </ul>
             </div> 
         </div>
